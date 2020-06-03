@@ -15,7 +15,7 @@
     "nama":"jajanan",
     "harga":"4000"
   }],
-  meal: [{
+  "meal": [{
     "id":"1",
     "nama":"nasi goreng",
     "harga":"10000"
@@ -30,7 +30,7 @@
     "nama":"bakso",
     "harga":"8000"
   }],
-  snack:[{
+  "snack":[{
     "id":"1",
     "nama":"kerupuk",
     "harga":"1000"
