@@ -2,47 +2,47 @@
   "beverage": [{
     "id":"1",
     "nama":"roti",
-    "harga":"1000"
+    "harga":1000
   },
   {
      "id":"2",
     "nama":"kelapa",
-    "harga":"3000"
+    "harga":3000
     
   },
   {
    "id":"3",
     "nama":"jajanan",
-    "harga":"4000"
+    "harga":4000
   }],
   "meal": [{
     "id":"1",
     "nama":"nasi goreng",
-    "harga":"10000"
+    "harga":10000
   },
   {
     "id":"2",
     "nama":"mie goreng",
-    "harga":"10000"  
+    "harga":10000  
   },
   {
     "id":"3",
     "nama":"bakso",
-    "harga":"8000"
+    "harga":8000
   }],
   "snack":[{
     "id":"1",
     "nama":"kerupuk",
-    "harga":"1000"
+    "harga":1000
   },
   {
     "id":"2",
     "nama":"kacang",
-    "harga":"1000"
+    "harga":1000
   },
   {
     "id":"3",
     "nama":"emping",
-    "harga":"1000"
+    "harga":1000
   }]
 }
