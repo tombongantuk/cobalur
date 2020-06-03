@@ -1,0 +1,18 @@
+{
+  "beverage": [{
+    "id":"1",
+    "nama":"roti",
+    "harga":"1000"
+  },
+  {
+     "id":"2",
+    "nama":"kelapa",
+    "harga":"3000"
+    
+  },
+  {
+   "id":"3",
+    "nama":"jajanan",
+    "harga":"4000"
+  }]
+}
